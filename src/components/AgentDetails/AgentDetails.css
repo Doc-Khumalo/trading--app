@@ -1,0 +1,29 @@
+.AgentWrapper {
+    float: right;
+    border-left-style: dotted;
+    border-left-color: var(--headerColor);
+    height: 545px;
+    margin: 1rem 2rem 0rem;
+    width: 25%;
+}
+
+.text {
+    display: block;
+    text-align: left;
+}
+
+.tradeWrapper {
+    margin-left: 2rem;
+}
+
+.tradeID {
+    margin-top: 3.75rem;
+}
+
+.dealerSection {
+    margin-top: 5rem;
+}
+
+.clientText {
+    border-bottom-style: inset;
+}

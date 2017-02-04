@@ -1,0 +1,41 @@
+.acceptButton {
+    background-color: var(--acceptColor);
+    font-size: 2rem;
+    width: 20%;
+    border-radius: .275rem;
+    height: 3.25rem;
+    float: left;
+    color: var(--textColor);
+    margin-left: 4rem;
+    font-size: 1rem;
+}
+
+.transferButton {
+    background-color: var(--transferColor);
+    font-size: 2rem;
+    width: 20%;
+    border-radius: .275rem;
+    height: 3.25rem;
+    color: var(--textColor);
+    margin-left: -13rem;
+    font-size: 1rem;
+}
+
+.declineButton {
+    background-color: var(--declineColor);
+    font-size: 2rem;
+    width: 20%;
+    border-radius: .275rem;
+    font-size: 1rem;
+    height: 3.25rem;
+    color: var(--textColor);
+    float: right;
+    margin-right: 5rem;
+}
+
+.buttonGroup {
+    background-color: var(--buttonBackground);
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+
+}

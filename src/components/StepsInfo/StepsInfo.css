@@ -1,0 +1,30 @@
+.step {
+    margin-top: 5rem;
+    width: 55%;
+    margin-left: 4rem;
+    margin-right: auto;
+}
+
+.stepInfoFirst {
+    width: 52%;
+}
+
+.stepInfoSecond {
+    width: 46%;
+}
+
+.stepInfoLast {
+}
+
+.step {
+    margin-bottom: 2rem;
+    border-top-color: var(--headerColor);
+}
+
+.tableRow {
+    margin-top: 2rem;
+}
+
+.stepsWrapper {
+    border-bottom-style: inset;
+}

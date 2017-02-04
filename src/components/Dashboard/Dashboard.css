@@ -1,0 +1,63 @@
+@import "../../common/css/colors.css";
+
+.dashboardWrapper {
+    float: left;
+    margin: 2rem 4rem 2rem;
+    width: 55%;
+    height: 315px;
+    border-bottom-style: inset;
+}
+
+.text {
+    display: block;
+}
+
+.clientInfo {
+    width: 57%;
+}
+
+.link {
+    color: var(--linkColor);
+}
+
+.clientContactLeft {
+    float: left;
+    padding-right: 3rem;
+}
+
+.clientContactRight {
+    float: right;
+    text-align: left;
+    margin-left: 4rem;
+}
+
+.subHeader {
+    font-weight: 800;
+}
+
+tr {
+    text-align: left;
+}
+
+th {
+    width: 90px;
+}
+
+.headerLight {
+    color: var(--headerColor);
+}
+
+.callImage {
+    float: right;
+}
+
+h1.text.imagePosition {
+    margin-bottom: 4rem;
+}
+
+.userImage {
+    margin-left: 2rem;
+}
+.buttonLogo {
+    margin-left: .25rem;
+}
